@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"${id}.mixins.json"
+		"mixins.${id}.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.0",
